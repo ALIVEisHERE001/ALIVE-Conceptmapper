@@ -6,7 +6,7 @@ Tests for ALIVE-Conceptmapper
 import unittest
 from main import *
 
-class TestConceptmapper(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
