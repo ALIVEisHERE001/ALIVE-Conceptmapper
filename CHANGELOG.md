@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.0] - 2025-10-30
+## [1.2.0] - 2025-10-30
 ### Added
 - Added examples directory with basic and advanced usage
 - Added comprehensive test suite
